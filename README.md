@@ -18,6 +18,6 @@ The application includes clear labels and instructions to guide users through th
 The Matrix Transformation Visualization Suite leverages the LaTex library to create a visually appealing interface, with color-coding to enhance user experience and understanding.
 
 
-![Cube Transformed](Matrix-Transformation-Visualization-Suite/Images/Cube_Transformed.png)
+![Cube Transformed](Images/Cube_Transformed.png)
 
-![Matrix Base](Matrix-Transformation-Visualization-Suite/Images/Matrix_base.png)
+![Matrix Base](Images/Matrix_base.png)
