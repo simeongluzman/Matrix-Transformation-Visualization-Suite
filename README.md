@@ -21,3 +21,23 @@ The Matrix Transformation Visualization Suite leverages the LaTex library to cre
 ![Cube Transformed](Images/Cube_Transformed.png)
 
 ![Matrix Base](Images/Matrix_base.png)
+
+# Getting Started
+
+## Getting Started
+
+To get started with the Matrix Transformation Visualization Suite, follow these simple steps:
+
+1. Clone the repository to your local machine.
+2. Ensure that you have Python installed.
+3. Install the required dependencies using the following commands:
+- pip install manim
+- pip install numpy
+4. Make sure you have the required system dependencies for OpenGL installed. Check the [Manim documentation](https://docs.manim.community/en/stable/installation/dependencies.html) for more information on system dependencies.
+5. Run the application using the following command:
+- manim -qm -p --renderer=opengl scene.py InteractiveRadius
+6. Follow the on-screen instructions to apply transformations to the unit cube and observe the results.
+
+
+
+
