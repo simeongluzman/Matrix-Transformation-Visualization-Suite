@@ -1,7 +1,7 @@
-#Matrix Transformation Visualization Suite
+# Matrix Transformation Visualization Suite
 Matrix Transformation Visualization Suite is an interactive application designed to help users visualize and understand matrix transformations in a 3D space. Developed with Python and Manim, this project provides an engaging and educational experience to make learning matrix transformations more accessible and enjoyable.
 
-#Features
+# Features
 Interactive 3D Scene: Displays a unit cube in a 3D environment, allowing users to observe how transformations affect the cube in real-time.
 
 Multiple Transformation Options: Users can apply various transformations to the unit cube, such as rotation and projection, to explore how each operation impacts the object.
